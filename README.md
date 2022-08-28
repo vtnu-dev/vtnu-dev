@@ -10,7 +10,7 @@
  
  <img src="https://komarev.com/ghpvc/?username=vtnu-dev&style=flat-square&color=blue" alt=""/>
   <h1>
-  hey there
+  Hi there, I'm Andrei
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -21,13 +21,13 @@
  </div>
  
   ### :man_technologist: About Me :
-  I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
+  I am a Junior Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
   
-  - :telescope: --
+  - :telescope: I'm currently designing web pages and making web applications for projects of interest to me.
 
-- :seedling: --
+- :seedling: I’m currently learning React, TypeSctipt
 
-- :zap: --
+- :zap: I'm interested in programming and information technology
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-niachai-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
