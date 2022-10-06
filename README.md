@@ -29,7 +29,7 @@
 
 - :zap: I'm interested in programming and information technology
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-niachai-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-niachai-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/niachai)
 
 ---
 
