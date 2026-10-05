@@ -1,21 +1,24 @@
 # Andrei Niachai
 
-**Web Developer & AI** · Warsaw, Poland · [sitebest.eu](https://sitebest.eu) · [LinkedIn](https://www.linkedin.com/in/niachai)
+**Web Developer** · Warszawa · [sitebest.eu](https://sitebest.eu/realizacje/) · [LinkedIn](https://www.linkedin.com/in/niachai)
 
-I build fast business websites and AI features that actually help: website assistants, automation, and visibility in Google and in AI answers.
+Buduję strony, aplikacje internetowe i automatyzacje z Claude Code. W obecnej pracy w dwuosobowym zespole zbudowaliśmy w ostatnim roku ponad 80 stron dla spółek z grupy, większość z nich zrobiłem sam.
 
-- In the past year I built and developed 80+ business websites in a two-person team, most of them myself.
-- After hours I run **SiteBest**, my freelance brand. Live projects you can click through: [sitebest.eu/en/work](https://sitebest.eu/en/work/)
-- I work AI-first: I direct AI coding tools and own the requirements, quality and release.
+**Jak pracuję:** ustalam, co ma powstać i według jakich zasad pracuje agent, prowadzę dla niego pamięć i bazę wiedzy w Obsidianie, a na końcu sprawdzam wynik, testuję i wdrażam przez GitHub Actions.
 
-### What I work with
+### Technologie
 
-- **Web:** React, Next.js, TypeScript, Astro, JavaScript, HTML/CSS, WordPress & WooCommerce
-- **Platform:** Cloudflare (Workers, Workers AI), GitHub Actions, CI/CD
-- **AI:** Claude, OpenAI and Gemini APIs, OpenRouter, AI assistants on company knowledge (RAG), AI agents, n8n automation, AI images, video and voice
+- **Strony WWW:** WordPress (Elementor, ACF, WooCommerce), HTML, CSS, JavaScript, Figma
+- **Z Claude Code:** Astro, React, Next.js, TypeScript, Node.js, Python, Docker
+- **Wdrożenia:** Git, GitHub Actions, Cloudflare (Workers)
+- **AI:** API modeli (OpenAI, Claude, Gemini), asystenci AI na stronach, ElevenLabs, HeyGen
 
-### Why this profile is short
+### Dlaczego tu mało kodu
 
-Client and employer code stays private. My current work is live on [sitebest.eu](https://sitebest.eu/en/work/), and I am happy to walk you through the code on a call.
+Kod pracodawcy i klientów jest prywatny. Realizacje można przeklikać na [sitebest.eu/realizacje](https://sitebest.eu/realizacje/), a kod chętnie pokażę na rozmowie.
+
+---
+
+**EN:** Web developer from Warsaw. I build websites, web apps and automations with Claude Code. In the past year our two-person team built 80+ websites for our group's companies, most of them by me. I take care of the requirements, testing and release myself. Live work: [sitebest.eu/en/work](https://sitebest.eu/en/work/)
 
 📫 contact@sitebest.eu
