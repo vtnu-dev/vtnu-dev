@@ -16,8 +16,8 @@ Buduję strony, aplikacje internetowe i automatyzacje z Claude Code. W obecnej p
 ### Wybrane aplikacje
 
 - **Bit:** asystent AI na [sitebest.eu](https://sitebest.eu/), który odpowiada na pytania i sam wypełnia formularz wyceny
-- **VoiceType:** dyktowanie głosem na Windows, AI może od razu poprawić albo przetłumaczyć tekst
-- **Disk Revival:** program na Windows, który wyłącza z użycia wolne i uszkodzone miejsca starych dysków HDD
+- **Aplikacja do dyktowania głosem:** własny projekt na Windows, AI może od razu poprawić albo przetłumaczyć tekst
+- **Program do naprawy dysków HDD:** własny projekt na Windows, który wyłącza z użycia wolne i uszkodzone miejsca starych dysków
 - **Z.15:** aplikacja w przeglądarce do nauki egzaminu zawodowego, działa też offline
 
 ### Dlaczego tu mało kodu
